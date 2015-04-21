@@ -25,4 +25,7 @@ var user3 = new user("Kevin", "Tomasura", 25, 19125, "ktomasur@gmail.com");
 // the above are the two new objects i created using the constructor function. they are both 2 new 'user' objects. 
 
 
-console.log(user1.firstName)
+console.log(user1.firstName, user2.firstName, user3.firstName);
+console.log(user1.email, user2.email, user3.email);
+// logging the first names and emails of all users to the console.
+
