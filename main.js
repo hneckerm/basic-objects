@@ -4,8 +4,6 @@
 
 
 
-alert("hello")
-
 var user1 = {firstName: "Holly", lastName: "Neckermann", age : 25, zipCode : 19125, email: "hneckerm@gmail.com"};
 // created an object literal. named it 'user1' instead of simply 'user' like below because with object literal you cannot create multiple objects of the same type. object literals are best for simple containers of data. it has 5 methods.
 
